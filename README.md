@@ -13,6 +13,7 @@ Repository Learn NextJs
 - React Context
 - Deploying
 - Authentication
+- etc.
 
 ## Link
 
